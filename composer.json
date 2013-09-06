@@ -1,0 +1,16 @@
+{
+    "name": "pframework/p-micro-skeleton",
+    "description": "Micro-style Skeleton Application for P",
+    "license": "UNLICENSE",
+    "authors": [
+        {
+            "name": "Ralph Schindler",
+            "email": "ralph@ralphschindler.com",
+            "role": "developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "pframework/p": "dev-master"
+    }
+}
